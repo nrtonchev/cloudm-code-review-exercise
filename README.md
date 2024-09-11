@@ -5,5 +5,5 @@ Hi. You might have been asked to look at this repository and download it. You're
 **.NET**
 
 * [Pull Request #2](https://github.com/io-cloudm/cloudm-code-review-exercise/pull/2)
-* [Main Branch](https://github.com/io-cloudm/cloudm-code-review-exercise/tree/dotnet) (`dotnet`)
-* [Feature Branch](https://github.com/io-cloudm/cloudm-code-review-exercise/tree/feat/dotnet-recursive-deps) (`dotnet-recursive-deps`)
+* [Main Branch](https://github.com/io-cloudm/cloudm-code-review-exercise/tree/tree/dotnet) (`dotnet`)
+* [Feature Branch](https://github.com/io-cloudm/cloudm-code-review-exercise/tree/tree/feat/dotnet-recursive-deps) (`dotnet-recursive-deps`)
